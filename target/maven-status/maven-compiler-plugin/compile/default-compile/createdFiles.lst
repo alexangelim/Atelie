@@ -1,0 +1,4 @@
+Atelie\model\dto\EnderecoClienteDto.class
+Atelie\service\cliente\ClienteService.class
+Atelie\dao\cliente\ClienteDAO.class
+Atelie\model\vo\ClienteVO.class

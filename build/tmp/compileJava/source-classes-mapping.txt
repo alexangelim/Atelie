@@ -1,0 +1,6 @@
+Atelie/view/cliente/ClienteCadastroGUI.java
+ Atelie.view.cliente.ClienteCadastroGUI
+ Atelie.view.cliente.ClienteCadastroGUI$1
+ Atelie.view.cliente.ClienteCadastroGUI$2
+Atelie/Main.java
+ Atelie.Main
